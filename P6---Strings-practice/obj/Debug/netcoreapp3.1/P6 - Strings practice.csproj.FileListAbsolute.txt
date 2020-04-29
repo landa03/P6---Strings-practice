@@ -1,0 +1,11 @@
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.exe
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.deps.json
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.runtimeconfig.json
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.runtimeconfig.dev.json
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.dll
+D:\escuela\progra\P6 - Strings practice\bin\Debug\netcoreapp3.1\P6 - Strings practice.pdb
+D:\escuela\progra\P6 - Strings practice\obj\Debug\netcoreapp3.1\P6 - Strings practice.csprojAssemblyReference.cache
+D:\escuela\progra\P6 - Strings practice\obj\Debug\netcoreapp3.1\P6 - Strings practice.AssemblyInfoInputs.cache
+D:\escuela\progra\P6 - Strings practice\obj\Debug\netcoreapp3.1\P6 - Strings practice.AssemblyInfo.cs
+D:\escuela\progra\P6 - Strings practice\obj\Debug\netcoreapp3.1\P6 - Strings practice.dll
+D:\escuela\progra\P6 - Strings practice\obj\Debug\netcoreapp3.1\P6 - Strings practice.pdb
